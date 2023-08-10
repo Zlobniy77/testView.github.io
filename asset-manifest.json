@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/testView.github.io/static/css/main.6f9e0f90.css",
+    "main.css": "/testView.github.io/static/css/main.487c29d0.css",
     "main.js": "/testView.github.io/static/js/main.9c378c9b.js",
     "static/media/icomoon.svg": "/testView.github.io/static/media/icomoon.798af9a6f8e0e3061e6f.svg",
     "static/media/icomoon.eot": "/testView.github.io/static/media/icomoon.5f09cbe9466fc8006482.eot",
     "static/media/icomoon.woff": "/testView.github.io/static/media/icomoon.38ee8578500c843c8593.woff",
     "static/media/icomoon.ttf": "/testView.github.io/static/media/icomoon.5e97d5f07049aab91813.ttf",
-    "static/media/fontawesome-webfont.svg": "/testView.github.io/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.svg": "/testView.github.io/static/media/fontawesome-webfont.7e670d2320bc7ba72802.svg",
     "static/media/eicons.svg?5.18.0": "/testView.github.io/static/media/eicons.668e835eb8e359708f03.svg",
     "static/media/eicons.eot": "/testView.github.io/static/media/eicons.3a8616119d28cd6e1ab8.eot",
     "static/media/eicons.ttf": "/testView.github.io/static/media/eicons.6b0a150b9022427d0b04.ttf",
@@ -16,17 +16,13 @@
     "static/media/eicons.woff": "/testView.github.io/static/media/eicons.2f189548ac87f7bc8910.woff",
     "static/media/fontawesome-webfont.woff": "/testView.github.io/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/eicons.woff2": "/testView.github.io/static/media/eicons.0e8a503f618ac0f5b7d8.woff2",
-    "static/media/2-9-3.webp": "/testView.github.io/static/media/2-9-3.c7e3ac7f61c89b7d11b4.webp",
     "static/media/circular_flag.png": "/testView.github.io/static/media/circular_flag.2a0fa173bf1e6686d5cc.png",
     "static/media/fontawesome-webfont.woff2": "/testView.github.io/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/page-title.webp": "/testView.github.io/static/media/page-title.6f2b43fa66dc560e52b9.webp",
     "static/media/square_flag.png": "/testView.github.io/static/media/square_flag.32ea47ac8633c51237a1.png",
     "static/media/rect_mate.png": "/testView.github.io/static/media/rect_mate.b41fa0fe5bd091b575a6.png",
-    "static/media/WhatsApp-Image-2022-07-06-at-11.07.30-PM.webp": "/testView.github.io/static/media/WhatsApp-Image-2022-07-06-at-11.07.30-PM.9f2729d596f17ae0d593.webp",
-    "static/media/bg_video_7.webp": "/testView.github.io/static/media/bg_video_7.b8d5310770a12ed213dc.webp",
     "static/media/about-us-signature-1-1024x721.jpg": "/testView.github.io/static/media/about-us-signature-1-1024x721.ce780a220f10d7b7f7fb.jpg",
     "static/media/rect_bright.png": "/testView.github.io/static/media/rect_bright.93dd8032b5a717ac5853.png",
-    "static/media/background-counter.jpg": "/testView.github.io/static/media/background-counter.2dce47676afcc109adf4.jpg",
     "static/media/SYRYS-S-ICON-1.png": "/testView.github.io/static/media/SYRYS-S-ICON-1.df05a07e3eed3d01efa3.png",
     "static/media/mockup.webp": "/testView.github.io/static/media/mockup.d536483c9282723c8cfa.webp",
     "static/media/logoSmall.png": "/testView.github.io/static/media/logoSmall.daa0be14eb66cb7accbb.png",
@@ -48,11 +44,11 @@
     "static/media/ui-bg_glass_65_ffffff_1x400.webp": "/testView.github.io/static/media/ui-bg_glass_65_ffffff_1x400.4c4028e367d2580ca66b.webp",
     "static/media/ui-bg_flat_10_000000_40x100.webp": "/testView.github.io/static/media/ui-bg_flat_10_000000_40x100.08509d0b0739f48e458f.webp",
     "static/media/ui-bg_highlight-soft_100_eeeeee_1x100.webp": "/testView.github.io/static/media/ui-bg_highlight-soft_100_eeeeee_1x100.5bfb3a8d29213b4081ca.webp",
-    "main.6f9e0f90.css.map": "/testView.github.io/static/css/main.6f9e0f90.css.map",
+    "main.487c29d0.css.map": "/testView.github.io/static/css/main.487c29d0.css.map",
     "main.9c378c9b.js.map": "/testView.github.io/static/js/main.9c378c9b.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f9e0f90.css",
+    "static/css/main.487c29d0.css",
     "static/js/main.9c378c9b.js"
   ]
 }
