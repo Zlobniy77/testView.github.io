@@ -13,7 +13,7 @@
       "sizes": "130x70"
     }
   ],
-  "start_url": "/testView.github.io",
+  "start_url": ".",
   "display": "standalone",
   "theme_color": "#411021",
   "background_color": "#ffffff"
