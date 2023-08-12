@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/testView.github.io/static/css/main.820c3e64.css",
-    "main.js": "/testView.github.io/static/js/main.69904450.js",
+    "main.js": "/testView.github.io/static/js/main.b6d78038.js",
     "static/css/552.e177597b.chunk.css": "/testView.github.io/static/css/552.e177597b.chunk.css",
     "static/js/552.ee39a72b.chunk.js": "/testView.github.io/static/js/552.ee39a72b.chunk.js",
     "static/css/608.06a6f60f.chunk.css": "/testView.github.io/static/css/608.06a6f60f.chunk.css",
@@ -88,7 +88,7 @@
     "static/media/ui-bg_flat_10_000000_40x100.webp": "/testView.github.io/static/media/ui-bg_flat_10_000000_40x100.08509d0b0739f48e458f.webp",
     "static/media/ui-bg_highlight-soft_100_eeeeee_1x100.webp": "/testView.github.io/static/media/ui-bg_highlight-soft_100_eeeeee_1x100.5bfb3a8d29213b4081ca.webp",
     "main.820c3e64.css.map": "/testView.github.io/static/css/main.820c3e64.css.map",
-    "main.69904450.js.map": "/testView.github.io/static/js/main.69904450.js.map",
+    "main.b6d78038.js.map": "/testView.github.io/static/js/main.b6d78038.js.map",
     "552.e177597b.chunk.css.map": "/testView.github.io/static/css/552.e177597b.chunk.css.map",
     "552.ee39a72b.chunk.js.map": "/testView.github.io/static/js/552.ee39a72b.chunk.js.map",
     "608.06a6f60f.chunk.css.map": "/testView.github.io/static/css/608.06a6f60f.chunk.css.map",
@@ -130,6 +130,6 @@
   },
   "entrypoints": [
     "static/css/main.820c3e64.css",
-    "static/js/main.69904450.js"
+    "static/js/main.b6d78038.js"
   ]
 }
