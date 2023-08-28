@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/testView.github.io/static/css/main.7c10b2bd.css",
-    "main.js": "/testView.github.io/static/js/main.133427b2.js",
+    "main.js": "/testView.github.io/static/js/main.06c33a70.js",
     "static/media/icomoon.svg": "/testView.github.io/static/media/icomoon.798af9a6f8e0e3061e6f.svg",
     "static/media/SYRYS-S-ANIM-NO-SOUND.mp4": "/testView.github.io/static/media/SYRYS-S-ANIM-NO-SOUND.b86707def377bf31e687.mp4",
     "static/media/icomoon.eot": "/testView.github.io/static/media/icomoon.5f09cbe9466fc8006482.eot",
@@ -58,10 +58,10 @@
     "static/media/ui-bg_flat_10_000000_40x100.webp": "/testView.github.io/static/media/ui-bg_flat_10_000000_40x100.08509d0b0739f48e458f.webp",
     "static/media/ui-bg_highlight-soft_100_eeeeee_1x100.webp": "/testView.github.io/static/media/ui-bg_highlight-soft_100_eeeeee_1x100.5bfb3a8d29213b4081ca.webp",
     "main.7c10b2bd.css.map": "/testView.github.io/static/css/main.7c10b2bd.css.map",
-    "main.133427b2.js.map": "/testView.github.io/static/js/main.133427b2.js.map"
+    "main.06c33a70.js.map": "/testView.github.io/static/js/main.06c33a70.js.map"
   },
   "entrypoints": [
     "static/css/main.7c10b2bd.css",
-    "static/js/main.133427b2.js"
+    "static/js/main.06c33a70.js"
   ]
 }
